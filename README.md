@@ -1,1 +1,0 @@
-# takidy.github.io-takidy-privacy
