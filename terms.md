@@ -2,7 +2,7 @@ Conditions Générales d’Utilisation (CGU) — Takidy
 Version : 1.0
 Date d'entrée en vigueur : 14 janvier 2026
 
-Bienvenue sur Takidy. Les présentes Conditions Générales d’Utilisation (« CGU ») encadrent l’accès et l’utilisation de l’application mobile Takidy (l’« Application »), développée par l'entité Takidy.
+Bienvenue sur Takidy. Les présentes Conditions Générales d’Utilisation (« CGU ») encadrent l’accès et l’utilisation de l’application mobile Takidy (l’« Application »), développée par Xubria.
 
 En téléchargeant ou en utilisant l'Application, vous acceptez sans réserve les présentes CGU. Si vous n'acceptez pas ces conditions, vous ne devez pas utiliser l'Application.
 
