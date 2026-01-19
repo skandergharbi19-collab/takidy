@@ -9,7 +9,7 @@ En téléchargeant ou en utilisant l'Application, vous acceptez sans réserve le
 1. Responsable du Traitement
 Takidy (application mobile), exploitée par un éditeur indépendant.
 
-Email de contact : takidymobile@gmail.com
+Email de contact : contact@takidy.com
 
 2. Éligibilité et Accès
 Âge minimum : L'utilisation de l'Application est réservée aux personnes âgées de 13 ans ou plus. Si vous avez entre 13 et 18 ans, vous déclarez avoir reçu l'autorisation de vos représentants légaux.
