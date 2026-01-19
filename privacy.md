@@ -6,7 +6,7 @@ La protection de votre vie privée est une priorité pour Takidy. Cette Politiqu
 
 1. Responsable du Traitement
 Takidy (application mobile), exploitée par un éditeur indépendant.
-Email de contact : takidymobile@gmail.com
+Email de contact : contact@takidy.com
 
 2. Données Collectées
 Nous collectons les informations suivantes pour assurer le bon fonctionnement du service :
@@ -42,7 +42,7 @@ Droit de rectification : Corriger des données inexactes.
 Droit à l'effacement : Demander la suppression de vos données.
 Droit à la portabilité : Exporter vos données dans un format structuré (disponible via le bouton "Exporter mes données" dans l'Application).
 Droit d'opposition : Vous opposer au traitement pour des motifs légitimes.
-Pour exercer ces droits, contactez : takidymobile@gmail.com.
+Pour exercer ces droits, contactez : contact@takidy.com.
 
 8. Transferts de Données
 Vos données sont stockées sur des serveurs sécurisés. En cas de transfert hors de l'Union Européenne, nous nous assurons que des clauses contractuelles types ou des mécanismes équivalents sont en place pour garantir un niveau de protection adéquat.
