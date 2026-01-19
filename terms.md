@@ -37,5 +37,5 @@ Takidy se réserve le droit de modifier les présentes CGU à tout moment. Les u
 Les présentes CGU sont régies par le droit français. En cas de litige, les tribunaux compétents seront ceux du lieu de résidence du responsable du traitement, sauf disposition légale impérative contraire.
 
 Contact :
-Pour toute question concernant ces CGU, veuillez nous contacter à : takidymobile@gmail.com
+Pour toute question concernant ces CGU, veuillez nous contacter à : contact@takidy.com
 
