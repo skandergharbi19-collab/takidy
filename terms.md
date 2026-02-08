@@ -21,6 +21,11 @@ Fournir des informations exactes lors de l'inscription.
 Utiliser l'Application de manière licite, conformément aux lois en vigueur.
 Ne pas utiliser l'Application pour stocker ou partager des contenus illégaux, offensants ou violant les droits de propriété intellectuelle de tiers.
 Ne pas tenter d'altérer le bon fonctionnement de l'Application.
+
+3.3 Utilisation des Autorisations
+En accordant l'accès à votre bibliothèque photos ou appareil photo, vous autorisez uniquement l'utilisation de ces médias pour personnaliser vos catégories au sein de l'Application. Aucune photo n'est partagée avec des tiers sans votre consentement explicite.
+
+
 4. Propriété Intellectuelle
 L'Application : Takidy détient tous les droits de propriété intellectuelle sur l'Application (interface, code, design, logos). Toute reproduction non autorisée est interdite.
 Contenus utilisateurs : L'Utilisateur conserve la propriété des contenus et liens qu'il enregistre. Toutefois, l'Utilisateur garantit qu'il détient les droits nécessaires sur ces contenus pour les utiliser au sein de l'Application.
