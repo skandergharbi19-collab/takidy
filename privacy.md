@@ -15,6 +15,16 @@ Données d'identité : Nom, adresse email.
 Contenus Utilisateurs : Liens (YouTube, TikTok, etc.), notes, catégories et métadonnées associées aux contenus enregistrés.
 Données Techniques : Adresse IP, type d'appareil, identifiants techniques anonymisés, logs de connexion.
 Profil : Pays, langue, date de naissance, numéro de téléphone (si renseignés).
+Jetons FCM : Jeton de notification push (si vous activez les notifications).
+Images : Photos sélectionnées ou prises pour personnaliser vos catégories (stockées de manière sécurisée).
+
+2.1 Autorisations Demandées
+L'Application peut demander les autorisations suivantes :
+- Notifications Push : Pour vous informer de l'activité de vos contenus (optionnel, peut être désactivé dans les paramètres de l'appareil).
+- Bibliothèque Photos : Pour personnaliser vos catégories avec vos propres images.
+- Appareil Photo : Pour prendre des photos destinées à personnaliser vos catégories.
+Ces autorisations sont utilisées uniquement aux fins décrites et peuvent être révoquées à tout moment dans les paramètres de votre appareil.
+
 3. Bases Légales du Traitement (RGPD)
 Nous traitons vos données sur les bases suivantes :
 
@@ -44,8 +54,11 @@ Droit à la portabilité : Exporter vos données dans un format structuré (disp
 Droit d'opposition : Vous opposer au traitement pour des motifs légitimes.
 Pour exercer ces droits, contactez : contact@takidy.com.
 
-8. Transferts de Données
-Vos données sont stockées sur des serveurs sécurisés. En cas de transfert hors de l'Union Européenne, nous nous assurons que des clauses contractuelles types ou des mécanismes équivalents sont en place pour garantir un niveau de protection adéquat.
+8. Transferts de Données et Sous-Traitants
+Vos données sont stockées sur des serveurs sécurisés. Nous utilisons les sous-traitants suivants :
+- Cloudinary : Hébergement sécurisé des images de catégories (serveurs situés dans l'UE).
+- Firebase Cloud Messaging : Envoi de notifications push (Google).
+En cas de transfert hors de l'Union Européenne, nous nous assurons que des clauses contractuelles types ou des mécanismes équivalents sont en place pour garantir un niveau de protection adéquat.
 
 9. Suppression de Compte et Données
 L'Application permet la suppression immédiate de votre compte et de toutes les données associées via les paramètres du profil. Cette action est irréversible.
