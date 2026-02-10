@@ -60,10 +60,18 @@ Vos données sont stockées sur des serveurs sécurisés. Nous utilisons les sou
 - Firebase Cloud Messaging : Envoi de notifications push (Google).
 En cas de transfert hors de l'Union Européenne, nous nous assurons que des clauses contractuelles types ou des mécanismes équivalents sont en place pour garantir un niveau de protection adéquat.
 
-9. Suppression de Compte et Données
+9. Utilisation des contenus Facebook et Instagram
+Takidy ne stocke, ne copie et ne reproduit aucun contenu provenant de Facebook ou Instagram.
+
+Lorsque l’utilisateur partage volontairement une publication Facebook ou Instagram dans l’application, Takidy enregistre uniquement l’URL de la publication. Afin de permettre à l’utilisateur d’identifier le contenu sauvegardé, l’application récupère uniquement les métadonnées officielles (titre, miniature, nom de l’auteur) via le service oEmbed fourni par Meta Platforms.
+Ces métadonnées servent exclusivement d’identifiant visuel. Takidy ne télécharge pas les images ou vidéos et ne permet pas de consulter le contenu en dehors des plateformes Meta.
+Lorsque l’utilisateur ouvre un élément sauvegardé, il est automatiquement redirigé vers la publication originale sur Facebook ou Instagram.
+Seules les URLs publiques fournies volontairement par l’utilisateur sont traitées par l’application.
+
+10. Suppression de Compte et Données
 L'Application permet la suppression immédiate de votre compte et de toutes les données associées via les paramètres du profil. Cette action est irréversible.
 
-10. Modifications de la Politique
+11. Modifications de la Politique
 Nous pouvons mettre à jour cette politique périodiquement. La version la plus récente est toujours disponible dans l'Application.
 
 Acceptation : En utilisant Takidy, vous reconnaissez avoir pris connaissance de cette politique.
